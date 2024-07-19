@@ -7,7 +7,7 @@ You either need to install Anaconda and Jupyter notebook to run the notebook or 
 [Documentation on Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
 
 
-For learning begining python this source can be useful:
+For learning begining python this sources can be useful:
 ---
 
 | Resource Description       | Link                                |
